@@ -16,5 +16,6 @@
 </pre>
     <h1>Selamat datang di website portofolio saya!</h1>
     <p>Ini website portofolio pertama saya</p>
+    <img src="gudang-arsip/assets/images/star.webp" alt="star">
 </body>
 </html>
