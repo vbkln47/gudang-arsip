@@ -6,6 +6,3 @@
 \____/\__,_/\__,_/\__,_/_/ /_/\__, /  /_/  |_/_/  /____/_/ .___/ 
                              /____/                     /_/      
 </pre>
-    <h1>Selamat datang di website portofolio saya!</h1>
-    <p>Ini website portofolio pertama saya</p>
-    <img src="/assets/images/star.webp" alt="star">
