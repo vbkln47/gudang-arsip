@@ -7,4 +7,4 @@
 \____/\__,_/\__,_/\__,_/_/ /_/\__, /  /_/  |_/_/  /____/_/ .___/ 
                              /____/                     /_/      
 </pre>
-© 2026 C. Z. Malik. All Rights Reserved
+© 2026 C. Malik. All Rights Reserved
